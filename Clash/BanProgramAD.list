@@ -475,8 +475,7 @@ DOMAIN-SUFFIX,stat.m.jd.com
 
 # Kugou
 DOMAIN-SUFFIX,ads.service.kugou.com
-DOMAIN-SUFFIX,bssdl.kugou.com
-DOMAIN-SUFFIX,bssdlbig.kugou.com
+DOMAIN-SUFFIX,adsfile.bssdlbig.kugou.com
 DOMAIN-SUFFIX,d.kugou.com
 DOMAIN-SUFFIX,downmobile.kugou.com
 DOMAIN-SUFFIX,gad.kugou.com
@@ -1116,7 +1115,6 @@ DOMAIN-SUFFIX,dw.xcar.com.cn
 DOMAIN-SUFFIX,e.nexac.com
 DOMAIN-SUFFIX,eq.10jqka.com.cn
 DOMAIN-SUFFIX,exp.17wo.cn
-DOMAIN-SUFFIX,fund.10jqka.com.cn
 DOMAIN-SUFFIX,game.51yund.com
 DOMAIN-SUFFIX,ganjituiguang.ganji.com
 DOMAIN-SUFFIX,grand.ele.me
